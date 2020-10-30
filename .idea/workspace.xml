@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="000f49e7-b9b7-4c21-90e6-017b97d0eeb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/," />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1iv0Lo7szzpOembzogJamMOfDjS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/routes" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\node-movie-eğitimi\routes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\node-movie-eğitimi" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="000f49e7-b9b7-4c21-90e6-017b97d0eeb0" name="Default Changelist" comment="" />
+      <created>1602772704797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602772704797</updated>
+      <workItem from="1602772705857" duration="68000" />
+      <workItem from="1602843264201" duration="12408000" />
+      <workItem from="1602920353478" duration="2479000" />
+      <workItem from="1602934397347" duration="5670000" />
+      <workItem from="1603021144456" duration="8650000" />
+      <workItem from="1603088694305" duration="4733000" />
+      <workItem from="1603270419447" duration="79000" />
+      <workItem from="1603274524564" duration="10099000" />
+      <workItem from="1603303017000" duration="4708000" />
+      <workItem from="1603361914001" duration="595000" />
+      <workItem from="1603446105171" duration="4167000" />
+      <workItem from="1603534371605" duration="1888000" />
+      <workItem from="1603718650495" duration="3611000" />
+      <workItem from="1603739853414" duration="3031000" />
+      <workItem from="1603979938116" duration="712000" />
+      <workItem from="1604057123843" duration="5955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/," />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603449906814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603449906814" />
+    <state width="1515" height="204" key="GridCell.Tab.0.bottom" timestamp="1602859708759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602859708759" />
+    <state width="1515" height="204" key="GridCell.Tab.0.center" timestamp="1602859708759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602859708759" />
+    <state width="1515" height="204" key="GridCell.Tab.0.left" timestamp="1602859708759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602859708759" />
+    <state width="1515" height="204" key="GridCell.Tab.0.right" timestamp="1602859708759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602859708759" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602934423954">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602934423954" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1603285042135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603285042135" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603304633085">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603304633085" />
+  </component>
+</project>
